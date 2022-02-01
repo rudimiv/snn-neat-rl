@@ -1,0 +1,15 @@
+{
+  "LIF":{
+    "dt": 0.1,
+    "threshold": 1.5,
+    "reset": -0.1,
+    "rest": -0.07,
+    "tau": 0.5,
+    "reversal": 2.0,
+    "graded_input_potentials": true
+  },
+  "Encoding":{
+    "algorithm": "clip",
+    "plus_minus_separation": true
+  }
+}
